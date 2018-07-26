@@ -27,6 +27,17 @@
 
 ***Performance Check***
 [Page Insight](https://developers.google.com/speed/pagespeed/insights)
+[HTML](https://validator.w3.org)
+[HTML5TEST](https://html5test.com)
+[Link Checker](validator)
+[Googles Speed Insights](https://developers.google.com/speed/pagespeed/insights)
+[Test Your Mobile Speed](https://testmysite.thinkwithgoogle.com/intl/en-us)
+[Monitis](http://www.monitis.com/pageload)
+[tools.keycdn](https://tools.keycdn.com/speed)
+[Loadimpact](https://loadimpact.com)
+[varvy Is good for a overall picture of performance](https://varvy.com/pagespeed)
+[How Strong is your site](https://website.grader.com)
+[Facebook Debug Tool for crawling](https://developers.facebook.com/tools/debug)
 
 ***Checklist***
 
