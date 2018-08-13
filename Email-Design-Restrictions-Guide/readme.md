@@ -16,6 +16,17 @@ Litmus used MailCharts to analyze the average email file size over the last 12 m
 
 ***Note:*** Images can be bigger if they are further down the page to where it can take time to load well you scroll, so header images should inherently be smaller in size then images that's below the viewport.
 
+#### SAVING A GIF
+No matter how you create your GIF, the key to incorporating it into an email is keeping the file size to a minimum. While there are a few compression tools for decreasing the file size of GIFs, the best optimization happens when you can alter the file in a program like Photoshop.
+
+Using Photoshop, you can dig into the individual frames of an animated GIF and prune them to keep your file sizes down. Some good ways to optimize GIFs include:
+
+- Cropping. Keep your focus on what is animated, cropping the image as much as possible to reduce the file size.
+
+- Removing frames. The human eye doesn’t need a lot to see motion. You’d be surprised by how many frames you can remove from a GIF while still maintaining the illusion of motion.
+
+- Only animate part of the picture. Don’t force the entire image to redraw itself in every frame. Use layers in Photoshop to isolate animated parts and only animate those layers.
+
 ### GIFS IN EMAILS
 - [4 Tips on Gifs in Emails](https://emaildesign.beefree.io/2015/12/animated-gifs-in-email-marketing)
 - [Holiday Gifs](https://blog.aweber.com/email-marketing/the-2016-holiday-gif-guide.htm)
