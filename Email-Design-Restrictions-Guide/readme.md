@@ -1,5 +1,20 @@
 # **EMAIL DESIGN** "RESTRICTIONS" 🎉
 Welcome, below I will be running you through the restrictions on email design. Although this might make you feel limited, I assure you that you can still make tasty designs even with these limitations.
+### IMAGE SIZE
+Litmus used MailCharts to analyze the average email file size over the last 12 months (NOVEMBER 10, 2016). Here’s what they found:
+#### ***Non-mobile optimized emails:***
+
+- Average HTML weight: 45KB
+- Average image weight: 2.24MB
+
+#### ***Mobile optimized emails:***
+
+- Average HTML weight: 53KB
+- Average image weight: 2.7MB
+
+***Note:*** Images should always be compressed. You can do that [Here](https://compressjpeg.com/)
+
+***Note:*** Images can be bigger if they are further down the page to where it can take time to load well you scroll, so header images should inherently be smaller in size then images that's below the viewport.
 
 ### GIFS IN EMAILS
 - [4 Tips on Gifs in Emails](https://emaildesign.beefree.io/2015/12/animated-gifs-in-email-marketing)
