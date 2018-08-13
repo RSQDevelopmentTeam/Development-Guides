@@ -1,6 +1,6 @@
 # **EMAIL DESIGN** "RESTRICTIONS" 🎉
 Welcome, below I will be running you through the restrictions on email design. Although this might make you feel limited, I assure you that you can still make tasty designs even with these limitations.
-### IMAGE SIZE
+### IMAGE WEIGHT
 Litmus used MailCharts to analyze the average email file size over the last 12 months (NOVEMBER 10, 2016). Here’s what they found:
 #### ***Non-mobile optimized emails:***
 
@@ -16,7 +16,7 @@ Litmus used MailCharts to analyze the average email file size over the last 12 m
 
 ***Note:*** Images can be bigger if they are further down the page to where it can take time to load well you scroll, so header images should inherently be smaller in size then images that's below the viewport.
 
-#### SAVING A WEIGHT
+#### SAVING A GIF
 No matter how you create your GIF, the key to incorporating it into an email is keeping the file size to a minimum. While there are a few compression tools for decreasing the file size of GIFs, the best optimization happens when you can alter the file in a program like Photoshop.
 
 Using Photoshop, you can dig into the individual frames of an animated GIF and prune them to keep your file sizes down. Some good ways to optimize GIFs include:
