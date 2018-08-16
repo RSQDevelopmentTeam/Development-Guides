@@ -9,12 +9,14 @@ Welcome, below I will be running you through the restrictions on email design. A
 - Fifty-six percent of brands using emoji in their email subject lines had a higher unique open rate, according to a report by Experian having said that make it fits the tone of your audience.
 
 ***Cons***
-- Outlook & iOS might not render emoji properly
+- Outlook & iOS might not render emoji properly as reslut see this ▢ 
 - Could be flag for SPAM (Rare)
 
 #### ****Subject Line Tools****
 
 ***Places to find emojis***
+
+- [emojicopy](https://www.emojicopy.com)
 - [Megaemoji.com](https://www.megaemoji.com)
 - [Fsymbols](https://fsymbols.com)
 
