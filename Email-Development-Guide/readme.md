@@ -12,6 +12,7 @@ I recommend building one section at time and QA it on Email On Acid.
 ### Assets
 * Make sure all images are retina ready.
 * Make sure images are hosted before testing.
+* Make sure all images are compressed.
 
 ### Test List on Email On Acid
 
@@ -148,7 +149,7 @@ Small font sizes are enlarged by default Email width is based on the largest ele
     <td>
   </tr>
 </table>
-   ``` 
+   ```
 
 ### This can be easily fixed by adding the snippet below
 ` * { -webkit-text-size-adjust: none; }`
