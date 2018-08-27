@@ -1,4 +1,6 @@
-# Website Assets
+This was created to make the process of handing off the design to developer painless. 
+
+# Website Assets Handoff
 
 - Logos need to be SVG or double the size it’s design to be.
 - Must have hover examples
