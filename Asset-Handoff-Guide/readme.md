@@ -1,7 +1,7 @@
-This was created to make the process of handing off the design to developer painless. 
+This was created to make the process of handing off the design to developer painless.
 
 # Website Assets Handoff
-
+- Meta Info
 - Logos need to be SVG or double the size it’s design to be.
 - Must have hover examples
 - Consistent color (Must provide color list)
@@ -13,5 +13,5 @@ This was created to make the process of handing off the design to developer pain
 - OG image
 - Forms must have error and success message
 - All Links & copy should be provided.
-- Copy has to be (APPROVED).
+- Copy has to be (FULLY APPROVED) this prevents copy changes issues and reiterate copy.
 - Desktop and Mobile designs have to be provided. (If no mobile design any features that are not on desktop need to be noted.)
