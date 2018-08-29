@@ -4,7 +4,7 @@ This was created to make the process of handing off the design to developer pain
 - Meta Info
 - Logos need to be SVG or double the size it’s design to be.
 - Must have hover examples
-- Consistent color (Must provide color list)
+- Consistent colors between fonts and backgrounds.
 - Don’t use opacity to change colors. (I.E having a white font with opacity on it to darken it.)
 - Web fonts have been purchased and we have access to webkit font.
 - No more then 2-3 fonts styles
