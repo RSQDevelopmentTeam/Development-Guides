@@ -1,3 +1,7 @@
+More Extensive 
+https://github.com/thedaviddias/Front-End-Checklist
+
+
 # Checklist
 [Frontend Checklist](https://frontendchecklist.io/#section-head)
 - SSL
