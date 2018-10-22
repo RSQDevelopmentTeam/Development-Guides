@@ -1,12 +1,13 @@
 This was created to make the process of handing off the design to developer painless.
 
 # Website Assets Handoff
+- Documationn with all features acounted for. 
 - Meta Info
 - OG image
 - Favicon
 - Logos need to be SVG or double the size it’s design to be.
 - Must be in grid (We use Foundation)
-- Must have interaction/hover examples.
+- Must have interaction/hover examples of ever element that has it.
 - Consistent colors between fonts and backgrounds.
 - Don’t use opacity to change colors. (I.E having a white font with opacity on it to darken it.)
 - Web fonts have been purchased and we have access to webkit font.
@@ -14,5 +15,5 @@ This was created to make the process of handing off the design to developer pain
 - Forms must have error and success messages.
 - All links & copy should be provided.
 - Have image assets compressed.
-- Try to have copy to be (FULLY APPROVED) this prevents copy changes issues and reiterate copy if copy isn't fully approved make a note of it.
+- Try to have copy to be (FULLY APPROVED) this prevents copy changes issues and reiterate copy and a whole other list of problems. if copy isn't fully approved make a note of it.
 - Desktop and Mobile designs have to be provided. (If no mobile design any features that are not on desktop need to be noted.)
