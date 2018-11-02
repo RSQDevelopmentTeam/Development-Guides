@@ -16,5 +16,5 @@ This was created to make the process of handing off the design to developer pain
 - Have image assets compressed.
 - Try to have copy to be (FULLY APPROVED) this prevents copy changes issues and reiterate copy and a whole other list of problems. if copy isn't fully approved make a note of it
 - Desktop and Mobile designs have to be provided. (If there are no mobile designs. Any features that are not on desktop need to be noted.)
-- Tablet designs as necessary when working with client-provided designs. (Prevent back and forth on how tablet shoud look)
+- Tablet designs as necessary when working with client-provided designs. (Prevent back and forth on how tablet should look)
 - Create documentation on all features from the beginning. I.E During QA we shouldn't be adding new features unless it's a good reason.
