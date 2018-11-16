@@ -4,6 +4,7 @@ This was created to make the process of handing off the design to developer pain
 - Meta Info
 - OG image
 - Favicon
+- 404 Page design
 - Logos need to be SVG or double the size it’s designed to be.
 - Must be in grid (We use Foundation)
 - Must have interaction/hover examples of every element that has it.
