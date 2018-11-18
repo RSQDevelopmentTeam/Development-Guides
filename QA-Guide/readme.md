@@ -1,4 +1,7 @@
 # QA Resources
+
+![Eagle Eye](./eagle-eyes-feathers.jpg)
+
 ***Eagle Eyes Tools***
 
 - [Measure Pixel Perfect - Chrome Extension](https://chrome.google.com/webstore/detail/dimensions/baocaagndhipibgklemoalmkljaimfdj?hl=en) ***NOTE*** ( If you update CSS in devtool, you'll need to refresh the page to get the correct measurement.
