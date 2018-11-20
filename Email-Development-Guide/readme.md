@@ -1,4 +1,4 @@
-# Email Template Notes.
+# Email Template Notes
 
 ### Before Starting Project
 Please follow the Installation section on how to install the CLI & read up on [Foundation's Ink templating language](http://foundation.zurb.com/emails/docs/inky.html).
