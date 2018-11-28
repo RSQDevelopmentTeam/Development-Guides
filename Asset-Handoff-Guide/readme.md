@@ -1,6 +1,7 @@
 This was created to make the process of handing off the design to developer painless.
 
 # Assets Handoff
+- Browsers that are supported
 - Meta Info
 - OG image
 - Favicon
