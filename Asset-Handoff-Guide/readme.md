@@ -2,7 +2,7 @@ This was created to make the process of handing off the design to developer pain
 
 # Assets Handoff
 - Browsers that are supported
-- Account credential (Hosting,fonts, mailchimp ect)
+- Account credentials (Hosting,fonts, mailchimp ect)
 - Created documentation on all features
 - GDPR setup (if applies)
 - Meta Info
