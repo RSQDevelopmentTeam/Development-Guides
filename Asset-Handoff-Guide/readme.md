@@ -3,18 +3,18 @@ This was created to make the process of handing off the design to developer pain
 # Assets Handoff
 - Browsers that are supported
 - Account credentials (Hosting,fonts, mailchimp ect)
-- Created documentation on all features
+- Documentation on all features
 - GDPR setup (if applies)
 - Meta Info
 - OG image
 - Favicon
 - Privacy
-- 404 Page design
+- 404 Page Design
 - Logos need to be SVG or double the size it’s designed to be.
 - Must be in grid (We use Foundation)
 - Must have interaction/hover examples of every element that has it.
 - Consistent colors between fonts and backgrounds.
-- Designer should comb through the file to make sure all assets are available. (Sketch/Invision has created this problem.)
+- I got this for that - Designer should comb through their design file to make sure all assets are available and icons need to be SVG or must be twice the size for retina.
 - Don’t use opacity to change colors. (I.E having a photo with opacity on it to darken it.) Fonts are the expection.
 - Web fonts have been purchased and we have access to the webkit fonts.
 - Forms must have error and success messages.
