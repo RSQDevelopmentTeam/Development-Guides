@@ -1,25 +1,25 @@
 ### This was created to make the process of handing off the design to developer painless.
 
-Anything with a red dot is needed before development can begin  🔴 
+Anything with a red flag is needed before development can begin 🚩
 
 # Assets Handoff  🚦
-- Browsers that are supported  🔴 
-- Account credentials (Hosting,fonts, mailchimp ect)  🔴 
-- Documentation on all features  🔴 
+- Browsers that are supported 🚩 
+- Account credentials (Hosting,fonts, mailchimp ect)  🚩
+- Documentation on all features 🚩
 - GDPR setup (if applies)
 - Meta Info
 - OG image
 - Favicon
 - Privacy 
-- 404 Page Design  🔴 
+- 404 Page Design 🚩
 - Logos need to be SVG or double the size it’s designed to be. 
-- Must be in grid (We use Foundation)  🔴 
-- Must have interaction/hover examples of every element that has it.  🔴 
+- Must be in grid (We use Foundation) 🚩 
+- Must have interaction/hover examples of every element that has it. 🚩 
 - Consistent colors between fonts and backgrounds.
-- Designer should comb through their design file to make sure all assets are available and icons need to be SVG or must be twice the size for retina.  🔴 
+- Designer should comb through their design file to make sure all assets are available and icons need to be SVG or must be twice the size for retina. 🚩
 - Don’t use opacity to change colors. (I.E having a photo with opacity on it to darken it.) Fonts are the expection.
-- Web fonts have been purchased and we have access to the webkit fonts.  🔴 
-- Forms must have error and success messages.  🔴 
+- Web fonts have been purchased and we have access to the webkit fonts. 🚩 
+- Forms must have error and success messages. 🚩 
 - All links & copy should be provided.
 - Have image assets compressed. 
 - Try to have copy to be (FULLY APPROVED) this prevents copy changes issues and reiterate copy and a whole other list of problems. if copy isn't fully approved make a note of it
