@@ -136,6 +136,20 @@ https://emailmonks.com/blog/email-coding/bullet-list-outlook-hacks/
 IOS devices have two main issues with font and image size:
 Small font sizes are enlarged by default Email width is based on the largest element Font-size enlargement is usually not a critical problem, but in some cases it may cause some lines of text to be spliced potentially breaking your layout.
 
+
+### images full width on Outlook 120dpi 
+
+Add this as your html tag
+```
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" lang="en" xml:lang="en">
+```
+
+Put this in your header
+```
+<!--[if gte mso 9]><xml><o:OfficeDocumentSettings><o:AllowPNG/><o:PixelsPerInch>96</o:PixelsPerInch></o:OfficeDocumentSettings></xml><![endif]-->
+
+```
+
 ### Support Background Images on outlook 2016
 ```html
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
