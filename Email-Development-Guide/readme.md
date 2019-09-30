@@ -160,7 +160,7 @@ Small font sizes are enlarged by default Email width is based on the largest ele
 ### This can be easily fixed by adding the snippet below
 ` * { -webkit-text-size-adjust: none; }`
 
-### images full width on Outlook 120dpi 
+### Images full width on Outlook 120dpi 
 
 Add this as your html tag
 ```
@@ -173,7 +173,7 @@ Put this in your header
 
 ```
 
-### tables not going lower then 16px in height.
+### Tables not going lower then 16px in height.
 Email on Acid applies font-size: 16px to the th tag, so you'll need to change that to lower font-size. Issues will be seen on outlook 2013 & Office 365
 
 ### Support Background Images on outlook 2016
