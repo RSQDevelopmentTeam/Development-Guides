@@ -141,6 +141,8 @@ https://emailmonks.com/blog/email-coding/bullet-list-outlook-hacks/
 IOS devices have two main issues with font and image size:
 Small font sizes are enlarged by default Email width is based on the largest element Font-size enlargement is usually not a critical problem, but in some cases it may cause some lines of text to be spliced potentially breaking your layout.
 
+### This can be easily fixed by adding the snippet below
+` * { -webkit-text-size-adjust: none; }`
 
 ### images full width on Outlook 120dpi 
 
@@ -169,10 +171,7 @@ Put this in your header
   </tr>
 </table>
    ```
-
-### This can be easily fixed by adding the snippet below
-` * { -webkit-text-size-adjust: none; }`
-
+   
 ### Prevent iOS from "clipping" messages that are over 102k
 To fix this, make sure that you have a minimum of 1,019 characters before your closing head tag including spaces and carriage returns also if you don’t have any need for more styles, nor a style block, try inserting several lines of empty spaces.
 
