@@ -129,6 +129,21 @@ The text needs to be sanitized by an editor like BBEdit where you can just paste
 <img src="https://placekitten.com/600/600" width="600" style="width: 100%; max-width: 600px;">
 ```
 
+### Links getting converted to purple or blue
+When the emails are sent using HTML template from Outlook, all the links in the email turn to either blue or purple, with an underline. Regardless of what colored text is used, the blue/purple underline persists when viewed on different email clients.
+
+To avoid this issue, use the <font> tag and wrap the text with a <span> tag and a style attribute. Use the following code:
+  
+```
+<a style="color:#E3A216; text-decoration:none;">
+  <span style="color:#E3A216;">
+    <font color="#E3A216">
+      Click me
+    </font>
+  </span>
+</a>
+```
+
 ### Outlook line-height issues
 Make Outlook maintain any custom line heights defined, just add this declaration below
 ```
