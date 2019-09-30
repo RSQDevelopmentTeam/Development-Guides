@@ -124,11 +124,11 @@ The most common way to code Outlook targeted CSS is by placing an embedded style
 ### Weird characters showing up that looks like a box with 1 & 0s in it.
 The text needs to be sanitized by an editor like BBEdit where you can just paste in the editor and copy it again, or you can just type out the content instead.
 
-### images breaking out of layout 
+### images breaking out of layout on certain clients
 ```
-<img src="https://i.imgur.com/fDo5TlB.jpg" width="446" style="max-width: 446px;">
+<img src="https://placekitten.com/600/600" width="600" style="width: 100%; max-width: 600px;">
+```
 
-```
 ### Outlook line-height issues
 Make Outlook maintain any custom line heights defined, just add this declaration below
 ```
