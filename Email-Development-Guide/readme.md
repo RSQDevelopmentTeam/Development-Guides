@@ -173,6 +173,9 @@ Put this in your header
 
 ```
 
+### tables not going lower then 16px in height.
+Email on Acid applies font-size: 16px to the th tag, so you'll need to change that to lower font-size. Issues will be seen on outlook 2013 & Office 365
+
 ### Support Background Images on outlook 2016
 ```html
 <table cellpadding="0" cellspacing="0" border="0" width="100%">
