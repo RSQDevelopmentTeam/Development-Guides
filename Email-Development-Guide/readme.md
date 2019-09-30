@@ -145,10 +145,11 @@ To avoid this issue, use the <font> tag and wrap the text with a <span> tag and 
 ```
 
 ### Outlook line-height issues
-Make Outlook maintain any custom line heights defined, just add this declaration below
+You need to use the mso style "mso-line-height-rule". This is used to force Outlook to respect the line height rule. Please note this needs to be added PRIOR to the declared line-height or it will not work. See below:
 ```
 body { mso-line-height-rule: exactly; }
 ```
+
 ### Creating a working Bullet List
 https://emailmonks.com/blog/email-coding/bullet-list-outlook-hacks/
 
