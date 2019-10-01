@@ -144,6 +144,43 @@ To avoid this issue, use the <font> tag and wrap the text with a <span> tag and 
 </a>
 ```
 
+1: Leverage Outlook conditional tags
+Outlook 2000, 2002 & 2003 render with Internet Explorer and are fairly easy to deal with. But Outlook 2007 and beyond are rendered by Microsoft Word, which can cause problems.
+The work around? Use Outlook conditional tags to target Outlook as a whole, including specific years such as Outlook 2010 or 2013.
+Target Outlook 2007 and up
+```
+<! — [if mso]>
+<style type=”text/css”>
+     /*Your styles here*/
+</style>
+<![endif] →
+```
+Target Outlook 2000, 2002, & 2003
+```
+<! — [if IE]>
+<style>
+     /*Your styles here*/
+</style>
+<![endif] →
+```
+
+Target all Outlook versions
+```
+<! — [if (gte mso 9) | (IE)]>
+<style>
+     /*Your styles here*/
+</style>
+<![endif] →
+```
+The mso number within the conditional tags refers to which Outlook version you are targeting. There are other mso numbers to target different versions of Outlook:
+Outlook 2000 = mso 9
+Outlook 2002 = mso 10
+Outlook 2003 = mso 11
+Outlook 2007 = mso 12
+Outlook 2010 = mso 14
+Outlook 2013 = mso 15
+A word of warning, trying to specifically target Outlook 2000 ([if mso 9]), 2002 ([if mso 10]), or 2003([if mso 11]) does not seem to work. When it comes to targeting Outlook 2000, 2002, and 2003 using [if IE] is your best bet. On the other hand, Outlook 2007 and up responds very well to targeting specific versions with mso numbers such as [if mso 15] for Outlook 2013 or [if mso 12] for Outlook 2007.
+
 ### Outlook line-height issues
 You need to use the mso style "mso-line-height-rule". This is used to force Outlook to respect the line height rule. Please note this needs to be added PRIOR to the declared line-height or it will not work. See below:
 ```
