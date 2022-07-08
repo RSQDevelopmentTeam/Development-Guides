@@ -144,6 +144,32 @@ To avoid this issue, use the <font> tag and wrap the text with a <span> tag and 
 </a>
 ```
 
+Outlook button
+
+      <div style="font-family: Helvetica, sans-serif;font-size: 100%;margin: 0;padding: 0;margin-top: 0">
+        <!--[if mso]>
+
+            <v:rect style="height:40px;width:0;" fill="f" stroke="f" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word" />
+
+            <v:roundrect style="width:281px;height:55px;position:relative;top:0;left:-4px;" arcsize="50%" stroke="f" fill="true" xmlns:v=&quot;urn:schemas-microsoft-com:vml&quot; xmlns:w=&quot;urn:schemas-microsoft-com:office:word&quot;>
+                <v:fill type="gradientradial" color="transparent" color2="#000" focus="0" focusposition=".05,0.23" focussize=".9,0.25" />
+            </v:roundrect>
+
+            <v:roundrect href="https://app.kontent.ai/gotoaction" style="width:273px;height:40px;position:relative;top:0;left:0;v-text-anchor:middle;" arcsize="50%" stroke="f" fillcolor="#000" xmlns:v="urn:schemas-microsoft-com:vml" xmlns:w="urn:schemas-microsoft-com:office:word">
+                <w:anchorlock/>
+                <v:textbox inset="0,0,0,0">
+                <center>
+            <![endif]-->
+        <a href="https://app.kontent.ai/gotoaction"
+          style="font-family: Helvetica, sans-serif;font-size: 14px;margin: 0;padding: 8px 26px;color: #ffffff;margin-top: 0;line-height: 40px;letter-spacing: 0.1ch;background-color: #000;border-radius: 5000px; display: inline-block;text-align: center;text-decoration: none;white-space: nowrap;-webkit-text-size-adjust: none">
+          Read the announcment</a>
+        <!--[if mso]>
+                </center>
+                </v:textbox>
+            </v:roundrect>
+            <![endif]-->
+      </div>
+
 ### Leverage Outlook conditional tags
 Outlook 2000, 2002 & 2003 render with Internet Explorer and are fairly easy to deal with. But Outlook 2007 and beyond are rendered by Microsoft Word, which can cause problems.
 The work around? Use Outlook conditional tags to target Outlook as a whole, including specific years such as Outlook 2010 or 2013.
