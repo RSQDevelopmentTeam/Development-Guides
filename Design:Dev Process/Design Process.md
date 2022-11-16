@@ -2,8 +2,6 @@
 Designer, PM & Developer need a sit down and strageize clients problems and solutions from a Deisgn & Development & PM point of view.
 the Developer at least needs to see the design before client to make sure all features and designs styles can be executed and executed in the scope of the project timeline.
 
-* Current issues. Developers don't see the site until a few days before build, When we should be involved from the start. 
-
 
 # Design Process
 - Developers should be involved from the start for array of reasons, but besides getting most juice to solve client problems with website features, short of that 
